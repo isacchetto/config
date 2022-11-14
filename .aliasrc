@@ -1,0 +1,4 @@
+alias ls='ls -Gph'
+    # -p = '/' on directory
+    # -G = Enable colorized output
+    # -h = use unit suffixes: Byte, Kilobyte, Megabyte.. with -l
